@@ -38,24 +38,16 @@ public class Principal {
 					System.out.println("Informe o código que deseja remover: ");
 					ped = qtd.nextInt();
 					Pedidos.remover(ped);
-					System.out.println("Sorvete removido com sucesso!");
+					System.out.println("Sabor removido com sucesso!");
 				} else {
-					System.out.println("Não existe sorvete para remover!");
+					System.out.println("Não existe sabor para remover!");
 				}
 				break;
 
 			case 3:
-				
-				if (!(Pedidos.getPedido().isEmpty())) {
-					
+
 				Pedidos.listarTodos();
 				System.out.println(sep);
-				
-				} else {
-					
-					System.out.println("Não existe sorvete para listar!");
-					
-				}
 				break;
 
 			case 4:
