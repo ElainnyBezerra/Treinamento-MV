@@ -1,8 +1,0 @@
-package entidade;
-
-public class Fibonacci {
-	
-	int i = 0;
-	
-	
-}
