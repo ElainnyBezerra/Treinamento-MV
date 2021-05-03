@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="entidade.Pessoa"/>
 <fullyQualifiedTypeName name="entidade.PessoaFisica"/>
 <fullyQualifiedTypeName name="entidade.ContaPoupanca"/>
 <fullyQualifiedTypeName name="entidade.ContaCorrente"/>
 <fullyQualifiedTypeName name="entidade.Conta"/>
 <fullyQualifiedTypeName name="entidade.Pedidos"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="entidade.Sorvete"/>
-<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
-<fullyQualifiedTypeName name="util.JpaUtil"/>
 <fullyQualifiedTypeName name="dao.SorveteDao"/>
 <fullyQualifiedTypeName name="dao.Impl.SorveteDaoImpl"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="entidade.Pessoa"/>
+<fullyQualifiedTypeName name="dao.PessoaDao"/>
+<fullyQualifiedTypeName name="dao.impl.PessoaDaoImpl"/>
+<fullyQualifiedTypeName name="entidade.CafeManha"/>
+<fullyQualifiedTypeName name="dao.CafeManhaDao"/>
+<fullyQualifiedTypeName name="dao.impl.CafeManhaDaoImpl"/>
+<fullyQualifiedTypeName name="util.JpaUtil"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Cascade"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
